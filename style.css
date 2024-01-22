@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 120px;
+}
+.listas{
+    text-align: center;
+    margin-left: 50px;
+}
+.listas ol{
+    list-style-position: inside;
+    padding-left: 0;
+    display: inline-block;
+}
+.listas li{
+    text-align: left;
+}
+.tabela-1{
+    margin-left: 565px;
+}
+.tabela-1 td{
+    text-align: center;
+    border: groove #000 8px;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.tabela-2{
+    border: 3px solid #ff0000;
+}
+.tabela-2 td{
+    border: double;
+    padding-top: 10px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.bloco-1{
+    background-color: #ADD8E6;
+}
+.bloco-2{
+    background-color: aqua;
+}
+.bloco-3{
+    background-color: bisque;
+}
+.bloco-4{
+    background-color: #FFBF00;
+}
+.bloco-5{
+    background-color: beige;
+}
